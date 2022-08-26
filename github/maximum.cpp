@@ -41,5 +41,6 @@ main()
 	maximum m2(32,54);
 	cout<<"\n maximum m2";
 	m2.display();
+	cout<<"spark istitute";
 	
 }
